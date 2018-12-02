@@ -1,1 +1,0 @@
-worker: testowanko.py
